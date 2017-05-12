@@ -1,9 +1,8 @@
-# Tiny World SAP HANA XSA Excample 
+# Tiny World SAP HANA XSA Example 
 
-This is the XSA sp12 tinyworld example containing the code for https://blogs.sap.com/2016/03/28/developing-with-xs-advanced-a-tinyworld-tutorial/
+This is the XSA sp12 tinyworld example containing the code of the blog https://blogs.sap.com/2016/03/28/developing-with-xs-advanced-a-tinyworld-tutorial/
 
-# The TinyWorld application
+In this blog you will learn how to develop business applications for SAP HANA and XS Advanced.
 
-TODO add some summary here, about which concept are used in the  TinyWorld application 
 
 
